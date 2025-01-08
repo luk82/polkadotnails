@@ -20,6 +20,12 @@ export default function Home() {
           <h4 className="block mb-2 font-sans text-2xl antialiased font-semibold leading-snug tracking-normal text-blue-gray-900">
             Kettering
           </h4>
+          <h3>I provide manicure and pedicure services, including: </h3>
+          <ul>
+            <li>Gel polish nails,</li>
+            <li>Acrylic gel nails,</li>
+            <li>Manicures for both women and men</li>
+          </ul>
         </div>
         <div className="flex justify-center p-6 pt-2 gap-7">
           <a target="_blank" href="http://facebook.com/polka.dot.nails.studio">
